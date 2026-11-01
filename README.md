@@ -18,3 +18,7 @@ How to Run this Model
    pip install numpy
    pip install -U scikit-learn
 3. Copy and run the code for the model.
+
+Purpose of the Model
+
+Demand forecasting plays an important role in the management and engineering of global supply chains. It allows businesses and manufacturers to make educated decisions regarding supplies, marketing, and labor in the face of uncertainty and market volatility. The intention of this model is to showcase one of the many methods used to forecast demand, and to act as a free tool that can be used, experimented with, improved, and modified for various purposes.
