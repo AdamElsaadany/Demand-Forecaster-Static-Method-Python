@@ -1,6 +1,6 @@
 This is a demand forecasting model built using Python that uses the static method to analyze past demand and forecast future demand for a given number of periods.
 
-Overview of the Model:
+Overview of the Model
 
 The model works to calculate future demand by following six distinct steps:
 
