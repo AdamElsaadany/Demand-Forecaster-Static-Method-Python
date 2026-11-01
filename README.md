@@ -17,7 +17,7 @@ How to Run this Model
 2. Run the following commands in the terminal to install the necessary libraries if they are not already installed:
    pip install numpy
    pip install -U scikit-learn
-3. Copy and run the code for the model.
+4. Copy and run the code for the model.
 
 Purpose of the Model
 
